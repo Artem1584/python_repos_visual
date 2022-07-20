@@ -1,4 +1,1 @@
-# python_repos_visual
-
-
-Color
+Запрос данных с использованием вызовов API
